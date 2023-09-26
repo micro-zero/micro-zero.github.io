@@ -2,12 +2,13 @@
 
 本项目主页: [Github](https://github.com/micro-zero/) [Gitlab](https://gitlab.com/micro-zero) 
 
+本项目公开网页: [https://micro-zero.github.io/](https://micro-zero.github.io/)
+
 **NOTE：** 这是一个在Github上的开放网页，暂不公开有效信息。开发人员请移步至Gitlab（需要权限）：
 
 - 主网页&教师网页：[https://micro-zero.gitlab.io/](https://micro-zero.gitlab.io/)
 
-- 学生网页：[https://micro-zero-student.gitlab.io/](https://micro-zero-student.gitlab.io/)
-
+- 学生网页：[https://micro-zero-student.gitlab.io/](https://micro-zero-student.gitlab.io/) 
 
 ## 前言
 
