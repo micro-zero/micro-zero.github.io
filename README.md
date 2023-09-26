@@ -8,7 +8,7 @@
 
 - 主网页&教师网页：[https://micro-zero.gitlab.io/](https://micro-zero.gitlab.io/)
 
-- 学生网页：[https://micro-zero-student.gitlab.io/](https://micro-zero-student.gitlab.io/) 
+- 学生网页：[https://micro-zero-student.gitlab.io/](https://micro-zero-student.gitlab.io/)
 
 ## 前言
 
